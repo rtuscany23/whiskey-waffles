@@ -1,0 +1,16 @@
+
+.hero{
+  align-items: flex-end;
+  justify-content: center;
+
+  background: url("pancakes.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top left;
+
+}
+
+.hero-row{
+  height: 800vh;
+  align-items: center;
+}
